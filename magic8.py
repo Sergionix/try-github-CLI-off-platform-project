@@ -1,3 +1,4 @@
+git push --set-upstream origin fix-magic8
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
