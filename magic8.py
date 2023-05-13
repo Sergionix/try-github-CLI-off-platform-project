@@ -1,4 +1,4 @@
-git push --set-upstream origin fix-magic8
+import random
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
